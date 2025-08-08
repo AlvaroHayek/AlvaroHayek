@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvarohayek" alt="alvarohayek" /></a> </p>
 
-- 🔭 I’m currently working on [a Zelda like game in pygake](https://github.com/AlvaroHayek/Python_pygame_Zelda.git)
+- 🔭 I’m currently working on [a Zelda like game in pygame](https://github.com/AlvaroHayek/Python_pygame_Zelda.git)
 
 - 🌱 I’m currently learning **C++**
 
